@@ -302,3 +302,11 @@ a.email-link:active {
   overflow: hidden;
   object-position: 50% 50%;
 }
+
+.logos {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 100px;
+  justify-content: center;
+  margin-bottom: 100px;
+}
